@@ -133,34 +133,6 @@ No installation or dependencies are required.
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-Add screenshot here:
-
-```
-screenshots/homepage.png
-```
-
-### Features Section
-
-Add screenshot here:
-
-```
-screenshots/features.png
-```
-
-### Contact Section
-
-Add screenshot here:
-
-```
-screenshots/contact.png
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped strengthen understanding of:
@@ -195,7 +167,7 @@ This project helped strengthen understanding of:
 
 GitHub: https://github.com/Bhumigupta12345
 
-LinkedIn: https://linkedin.com/in/bhumi-gupta-ba891b297
+
 
 ---
 
